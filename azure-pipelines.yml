@@ -33,5 +33,6 @@ steps:
   inputs:
     buildType: current
     artifact: 'myweb.war'
+    a
 
 
