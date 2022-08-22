@@ -1,2 +1,2 @@
 # mani-myapps
-# this is mani-first file
+# this is my first application
